@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mPackaging /home/jose/spark_custom_join/target/scala-2.11/spark_json_stream_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	me/jpaa[0m
+[0m[[0mdebug[0m] [0m	  /home/jose/spark_custom_join/target/scala-2.11/classes/me/jpaa[0m
+[0m[[0mdebug[0m] [0m	me/jpaa/SparkCustomJoin$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/jose/spark_custom_join/target/scala-2.11/classes/me/jpaa/SparkCustomJoin$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	me/jpaa/SparkCustomJoin$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/jose/spark_custom_join/target/scala-2.11/classes/me/jpaa/SparkCustomJoin$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	me[0m
+[0m[[0mdebug[0m] [0m	  /home/jose/spark_custom_join/target/scala-2.11/classes/me[0m
+[0m[[0mdebug[0m] [0m	me/jpaa/SparkCustomJoin$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/jose/spark_custom_join/target/scala-2.11/classes/me/jpaa/SparkCustomJoin$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	me/jpaa/SparkCustomJoin$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/jose/spark_custom_join/target/scala-2.11/classes/me/jpaa/SparkCustomJoin$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	me/jpaa/SparkCustomJoin$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/jose/spark_custom_join/target/scala-2.11/classes/me/jpaa/SparkCustomJoin$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	me/jpaa/SparkCustomJoin.class[0m
+[0m[[0mdebug[0m] [0m	  /home/jose/spark_custom_join/target/scala-2.11/classes/me/jpaa/SparkCustomJoin.class[0m
+[0m[[0mdebug[0m] [0m	me/jpaa/SparkCustomJoin$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/jose/spark_custom_join/target/scala-2.11/classes/me/jpaa/SparkCustomJoin$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

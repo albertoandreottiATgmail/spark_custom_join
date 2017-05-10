@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/jose/spark_custom_join/src/main/resources/hulu_movies.csv,/home/jose/spark_custom_join/target/scala-2.11/classes/hulu_movies.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/jose/spark_custom_join/src/main/resources/netflix_movies.csv,/home/jose/spark_custom_join/target/scala-2.11/classes/netflix_movies.csv)[0m
